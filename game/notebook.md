@@ -1,8 +1,8 @@
 # Detective's Notebook
 
 ## Suspects
-- [ ] The Postman
-- [ ] The Banker
+- [x ] The Postman bro was chilling in the study
+- [ ] The Banker this mf is the killer
 - [x ] The Engineer bro estaba in the cellar
 
 ## Weapons
