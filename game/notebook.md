@@ -6,7 +6,7 @@
 - [x ] The Engineer bro estaba in the cellar
 
 ## Weapons
-- [ ] Antique Compass
+- [x ] Antique Compass thing was en la libreria
 - [ ] Silver Watch
 - [ ] Garden Shears
 
